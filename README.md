@@ -29,4 +29,4 @@
 - [ViPER4Android-FX(蝰蛇音效)](https://github.com/Magisk-Modules-Repo-CN/ViPER4Android-FX) [已完成] @cjybyjk
 - [Magic-Charging-Switch(mcs 充电控制)](https://github.com/Magisk-Modules-Repo-CN/Magic-Charging-Switch) [汉化中] @x4455
 - [Greenify4Magisk(绿色守护 Magisk 模块)](https://github.com/Magisk-Modules-Repo-CN/Greenify4Magisk) [汉化中] @cjybyjk
-- 〔Wifi_Bonding_(Qualcomm)(Wifi超频模块 - 高通专属)〕() [已完成] @TayLin
+- [Wifi_Bonding_(Qualcomm)(Wifi超频模块 - 高通专属)](https://github.com/Magisk-Modules-Repo-CN/magisk-wifi-bonding) [已完成] @TayLin
