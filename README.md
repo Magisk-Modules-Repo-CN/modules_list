@@ -20,6 +20,13 @@
 - [Magisk Manager(CN) 中的 docs](https://github.com/Magisk-Modules-Repo-CN/Magisk/tree/master/docs) [等待汉化]
 - [Magisk_Repo_Submissions(用于提交 Magisk 模块到仓库)](https://github.com/Magisk-Modules-Repo-CN/Magisk_Repo_Submissions) [等待汉化]
 
+## 上传官方仓库中没有的模块
+注意：repo 的 description 必须设置为模块 id
+其余步骤与贡献翻译基本相同，除了以下几点
+- 汉化状态 应该设置为 自制模块
+- 必须保持使用[最新的 template](https://github.com/Magisk-Modules-Repo-CN/magisk-module-template)
+当 [Magisk_Repo_Submissions](https://github.com/Magisk-Modules-Repo-CN/Magisk_Repo_Submissions) 汉化完成后会更新这一小节
+
 ## 如何贡献翻译
 注意：部分格式遵循这个规范：[写给大家看的中文排版指南](http://zhuanlan.zhihu.com/p/20506092)
   
