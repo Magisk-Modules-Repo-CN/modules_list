@@ -14,6 +14,7 @@
 
 ### 如何贡献翻译
 注意：部分格式遵循这个规范：[写给大家看的中文排版指南](http://zhuanlan.zhihu.com/p/20506092)
+注意：请同时翻译 README 和 module.prop 中的 description
 
 1. fork [这个repository](https://github.com/Magisk-Modules-Repo-CN/modules_list)，在列表中按格式加入您想汉化的模块（可以是之前翻译错误的模块，也可以是还没有汉化的模块），注意汉化之前先看看列表里面有没有人已经认领了
 2. 将您的汉化计划加入列表后, 提交一个 pull-request, 等待审核. 在等待审核的过程中您可以进行下一步
@@ -25,6 +26,6 @@
 - [Magisk-Manager-for-Recovery-Mode(Recovery 模式下的 Magisk 管理器)](https://github.com/Magisk-Modules-Repo-CN/Magisk-Manager-for-Recovery-Mode) [已完成] @cjybyjk
 - [terminal_app_systemizer(在终端中系统化 App)](https://github.com/Magisk-Modules-Repo-CN/terminal_app_systemizer) [已完成] @cjybyjk
 - [ViPER4Android-FX(蝰蛇音效)](https://github.com/Magisk-Modules-Repo-CN/ViPER4Android-FX) [已完成] @cjybyjk
-- [Magic-Charging-Switch(mcs 充电控制)](https://github.com/Magisk-Modules-Repo-CN/Magic-Charging-Switch) [已完成] @x4455
+- [Magic-Charging-Switch(mcs 充电控制)](https://github.com/Magisk-Modules-Repo-CN/Magic-Charging-Switch) [汉化中] @x4455
 - [Greenify4Magisk(绿色守护 Magisk 模块)](https://github.com/Magisk-Modules-Repo-CN/Greenify4Magisk) [汉化中] @cjybyjk
 
