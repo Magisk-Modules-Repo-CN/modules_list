@@ -14,6 +14,7 @@
 
 ### 如何贡献翻译
 注意：部分格式遵循这个规范：[写给大家看的中文排版指南](http://zhuanlan.zhihu.com/p/20506092)
+  
 注意：请同时翻译 README 和 module.prop 中的 description
 
 1. fork [这个repository](https://github.com/Magisk-Modules-Repo-CN/modules_list)，在列表中按格式加入您想汉化的模块（可以是之前翻译错误的模块，也可以是还没有汉化的模块），注意汉化之前先看看列表里面有没有人已经认领了
