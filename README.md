@@ -1,15 +1,15 @@
 # Magisk-Modules-Repo-CN
 
-> Magisk-Modules-Repo-CN 对 [Magisk-Modules-Repo](https://github.com/Magisk-Modules-Repo) 中的模块进行翻译
+> Magisk-Modules-Repo-CN 对 [Magisk-Modules-Repo](https://github.com/Magisk-Modules-Repo) 中的模块进行汉化
 
 ### 格式
 这个列表以 模块名称(中文译名) [汉化状态] @译者 的方式呈现
 #### 示例
 ##### 已经汉化完成的模块
-ViPER4Android-FX(蝰蛇音效) [已完成] @cjybyjk
+[ViPER4Android-FX(蝰蛇音效)](https://github.com/Magisk-Modules-Repo-CN/ViPER4Android-FX) [已完成] @cjybyjk
 
 ##### 还未汉化完成的模块
-Greenify4Magisk(绿色守护 Magisk 模块) [汉化中] @cjybyjk
+[Greenify4Magisk(绿色守护 Magisk 模块)](https://github.com/Magisk-Modules-Repo-CN/Greenify4Magisk) [汉化中] @cjybyjk
 
 
 ### 如何贡献翻译
@@ -22,8 +22,9 @@ Greenify4Magisk(绿色守护 Magisk 模块) [汉化中] @cjybyjk
 5. 提交一个 pull-request，等待审核
 
 ## 模块列表
-- Magisk-Manager-for-Recovery-Mode(Recovery 模式下的 Magisk 管理器) [已完成] @cjybyjk
-- terminal_app_systemizer(在终端中系统化 App) [已完成] @cjybyjk
-- ViPER4Android-FX(蝰蛇音效) [已完成] @cjybyjk
-- Greenify4Magisk(绿色守护 Magisk 模块) [汉化中] @cjybyjk
+- [Magisk-Manager-for-Recovery-Mode(Recovery 模式下的 Magisk 管理器)](https://github.com/Magisk-Modules-Repo-CN/Magisk-Manager-for-Recovery-Mode) [已完成] @cjybyjk
+- [terminal_app_systemizer(在终端中系统化 App)](https://github.com/Magisk-Modules-Repo-CN/terminal_app_systemizer) [已完成] @cjybyjk
+- [ViPER4Android-FX(蝰蛇音效)](https://github.com/Magisk-Modules-Repo-CN/ViPER4Android-FX) [已完成] @cjybyjk
+- [Magic-Charging-Switch(mcs 充电控制)](https://github.com/Magisk-Modules-Repo-CN/Magic-Charging-Switch) [已完成] @x4455
+- [Greenify4Magisk(绿色守护 Magisk 模块)](https://github.com/Magisk-Modules-Repo-CN/Greenify4Magisk) [汉化中] @cjybyjk
 
