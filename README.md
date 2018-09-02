@@ -69,4 +69,4 @@
 - [Audio Modification Library(音频修改支持库)](https://github.com/Magisk-Modules-Repo-CN/Audio-Modification-Library) [汉化中] @TayLin
 
  ## 交流群
- 欢迎加入Magisk-Modules-Repo-CN小组，群聊号码：859768584
+ 欢迎加入Magisk-Modules-Repo-CN小组，群聊号码：[859768584](https://jq.qq.com/?_wv=1027&k=53iHiNg)
