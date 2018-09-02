@@ -64,6 +64,6 @@
 - [terminal_app_systemizer(在终端中系统化 App)](https://github.com/Magisk-Modules-Repo-CN/terminal_app_systemizer) [已完成] @cjybyjk
 - [ViPER4Android-FX(蝰蛇音效)](https://github.com/Magisk-Modules-Repo-CN/ViPER4Android-FX) [已完成] @cjybyjk
 - [Greenify4Magisk(绿色守护 Magisk 模块)](https://github.com/Magisk-Modules-Repo-CN/Greenify4Magisk) [已完成] @cjybyjk
-- [Wifi_Bonding_(Qualcomm)(Wifi超频模块 - 高通专属)](https://github.com/Magisk-Modules-Repo-CN/magisk-wifi-bonding) [已完成] @TayLin
+- [Wifi_Bonding_(Qualcomm)(Wifi锁频模块 - 高通专属)](https://github.com/Magisk-Modules-Repo-CN/magisk-wifi-bonding) [已完成] @TayLin
 - [Project_WIPE_Systemless(安装 Project WIPE 调度)](https://github.com/Magisk-Modules-Repo-CN/Project_WIPE_Systemless) [自制模块] @yc9559 & @cjybyjk
 - [Audio Modification Library(音频修改支持库)](https://github.com/Magisk-Modules-Repo-CN/Audio-Modification-Library) [汉化中] @TayLin
