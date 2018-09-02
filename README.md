@@ -68,5 +68,10 @@
 - [Project_WIPE_Systemless(安装 Project WIPE 调度)](https://github.com/Magisk-Modules-Repo-CN/Project_WIPE_Systemless) [自制模块] @yc9559 & @cjybyjk
 - [Audio Modification Library(音频修改支持库)](https://github.com/Magisk-Modules-Repo-CN/Audio-Modification-Library) [已完成] @TayLin
 - [VoEnabler(启用高清音视频通话)](https://github.com/Magisk-Modules-Repo-CN/VoEnabler) [已完成] @TayLin
+- [Extend WiFi channels(解除Wifi信道限制)](https://github.com/Magisk-Modules-Repo-CN/extendwifi) [已完成] @TayLin
+
+
+
+
  ## 交流群
  欢迎加入Magisk-Modules-Repo-CN小组，群聊号码：[859768584](https://jq.qq.com/?_wv=1027&k=53iHiNg)
