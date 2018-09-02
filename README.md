@@ -58,7 +58,7 @@
 ## 模块列表
 - [Magic-Charging-Switch(mcs 充电控制)](https://github.com/Magisk-Modules-Repo-CN/Magic-Charging-Switch) [汉化中] @x4455
 - [Enable Doze for GMS Magisk Module(对谷歌服务启用Doze)](https://github.com/Magisk-Modules-Repo-CN/EnableGMSModuleMagisk) [汉化中] @TayLin
-- [Xposed-Framework-Unity(Xposed 框架 整合版)](https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity) [汉化中] @cjybyjk
+- [Xposed-Framework-Unity(Xposed 框架 整合版)](https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity) [已完成] @cjybyjk
 - [Magisk-Manager-for-Recovery-Mode(Recovery 模式下的 Magisk 管理器)](https://github.com/Magisk-Modules-Repo-CN/Magisk-Manager-for-Recovery-Mode) [已完成] @cjybyjk
 - [terminal_app_systemizer(在终端中系统化 App)](https://github.com/Magisk-Modules-Repo-CN/terminal_app_systemizer) [已完成] @cjybyjk
 - [ViPER4Android-FX(蝰蛇音效)](https://github.com/Magisk-Modules-Repo-CN/ViPER4Android-FX) [已完成] @cjybyjk
