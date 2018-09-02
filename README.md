@@ -66,7 +66,7 @@
 - [Greenify4Magisk(绿色守护 Magisk 模块)](https://github.com/Magisk-Modules-Repo-CN/Greenify4Magisk) [已完成] @cjybyjk
 - [Wifi_Bonding_(Qualcomm)(Wifi锁频模块 - 高通专属)](https://github.com/Magisk-Modules-Repo-CN/magisk-wifi-bonding) [已完成] @TayLin
 - [Project_WIPE_Systemless(安装 Project WIPE 调度)](https://github.com/Magisk-Modules-Repo-CN/Project_WIPE_Systemless) [自制模块] @yc9559 & @cjybyjk
-- [Audio Modification Library(音频修改支持库)](https://github.com/Magisk-Modules-Repo-CN/Audio-Modification-Library) [汉化中] @TayLin
+- [Audio Modification Library(音频修改支持库)](https://github.com/Magisk-Modules-Repo-CN/Audio-Modification-Library) [已完成] @TayLin
 
  ## 交流群
  欢迎加入Magisk-Modules-Repo-CN小组，群聊号码：[859768584](https://jq.qq.com/?_wv=1027&k=53iHiNg)
