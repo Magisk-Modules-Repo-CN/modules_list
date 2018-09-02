@@ -56,6 +56,7 @@
 5. push 到远端分支
 
 ## 模块列表
+- [magisk_selinux_manager(Magisk SELinux 管理器)](https://github.com/Magisk-Modules-Repo-CN/magisk_selinux_manager) [汉化中] @x4455
 - [Magic-Charging-Switch(mcs 充电控制)](https://github.com/Magisk-Modules-Repo-CN/Magic-Charging-Switch) [汉化中] @x4455
 - [Enable Doze for GMS Magisk Module(对谷歌服务启用Doze)](https://github.com/Magisk-Modules-Repo-CN/EnableGMSModuleMagisk) [汉化中] @TayLin
 - [Xposed-Framework-Unity(Xposed 框架 整合版)](https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity) [已完成] @cjybyjk
