@@ -22,7 +22,7 @@
 以下几个 repository 不是标准的模块, 但也非常重要。
 希望有更多人加入到这几个 repository 的汉化中
 - [Magisk Manager(CN) 中的 docs](https://github.com/Magisk-Modules-Repo-CN/Magisk/tree/master/docs) [等待汉化]
-- [Magisk_Repo_Submissions(用于提交 Magisk 模块到仓库)](https://github.com/Magisk-Modules-Repo-CN/Magisk_Repo_Submissions) [等待汉化]
+- [Magisk_Repo_Submissions(用于提交 Magisk 模块到仓库)](https://github.com/Magisk-Modules-Repo-CN/Magisk_Repo_Submissions) [汉化中] @cjybyjk
 - [magisk-module-template(Magisk 模块编写示例)](https://github.com/Magisk-Modules-Repo-CN/magisk-module-template) [已完成] @cjybyjk
 
 ## 上传官方仓库中没有的模块
