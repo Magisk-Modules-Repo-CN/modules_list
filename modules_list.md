@@ -2,6 +2,7 @@
 
 - [magisk_selinux_manager(Magisk SELinux 管理器)](https://github.com/Magisk-Modules-Repo-CN/magisk_selinux_manager) @x4455
 - [MagicGApps(以systemlessly方式安装常规opengapps)](https://github.com/Magisk-Modules-Repo-CN/MagicGApps) @x4455
+- [Magic-Charging-Switch(mcs 充电控制)](https://github.com/Magisk-Modules-Repo-CN/Magic-Charging-Switch) @x4455
 - [Enable Doze for GMS Magisk Module(对谷歌服务启用Doze)](https://github.com/Magisk-Modules-Repo-CN/EnableGMSModuleMagisk) @TayLin
 - [Xposed-Framework-Unity(Xposed 框架 整合版)](https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity) @cjybyjk
 - [Magisk-Manager-for-Recovery-Mode(Recovery 模式下的 Magisk 管理器)](https://github.com/Magisk-Modules-Repo-CN/Magisk-Manager-for-Recovery-Mode) @cjybyjk
