@@ -17,3 +17,5 @@
 - [Adreno GPU Developer Preview Drivers(Adreno GPU预览版驱动)](https://github.com/Magisk-Modules-Repo-CN/Adreno-Systemless-Installer) @TayLin
 - [Android Mic Fix(安卓麦克风修复)](https://github.com/Magisk-Modules-Repo-CN/bacon-mic-fix) @TayLin
 - [Bixby key remapper(将Bixby键映射为相机键)](https://github.com/Magisk-Modules-Repo-CN/Bixby-key-remapper) @TayLin
+- [CloudflareDNS4Magisk(Cloudflare 隐私DNS)](https://github.com/Magisk-Modules-Repo-CN/CloudflareDNS4Magisk) @刷机中ing
+- [Emoji One(开源Emoji EmojiOne)](https://github.com/Magisk-Modules-Repo-CN/Emoji_One) @刷机中ing
