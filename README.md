@@ -53,7 +53,7 @@
 ## 列表
 [ongoing(正在汉化) 列表](https://github.com/Magisk-Modules-Repo-CN/modules_list/blob/master/ongoing_list.md) 
 
-[modules(汉化完成) 列表](https://github.com/Magisk-Modules-Repo-CN/modules_list/blob/master/fin_list.md) 
+[fin(汉化完成) 列表](https://github.com/Magisk-Modules-Repo-CN/modules_list/blob/master/fin_list.md) 
 
 ## 交流群
 欢迎加入Magisk-Modules-Repo-CN小组，群聊号码：[859768584](https://jq.qq.com/?_wv=1027&k=53iHiNg)
