@@ -7,8 +7,8 @@
 ## 不是模块
 以下几个 repository 不是标准的模块, 但也非常重要。
 希望有更多人加入到这几个 repository 的汉化中
-- [Magisk Manager(CN) 中的 docs](https://github.com/Magisk-Modules-Repo-CN/Magisk/tree/master/docs) [等待汉化]
-- [Magisk_Repo_Submissions(用于提交 Magisk 模块到仓库)](https://github.com/Magisk-Modules-Repo-CN/Magisk_Repo_Submissions) [汉化中] @cjybyjk
+- [Magisk Manager(CN) 中的 docs](https://github.com/Magisk-Modules-Repo-CN/Magisk/tree/master/docs) [正在汉化] @Kitcham
+- [Magisk_Repo_Submissions(用于提交 Magisk 模块到仓库)](https://github.com/Magisk-Modules-Repo-CN/Magisk_Repo_Submissions) [已完成] @cjybyjk
 - [magisk-module-template(Magisk 模块编写示例)](https://github.com/Magisk-Modules-Repo-CN/magisk-module-template) [已完成] @cjybyjk
 
 ## 上传官方仓库中没有的模块
@@ -53,7 +53,7 @@
 ## 列表
 [ongoing(正在汉化) 列表](https://github.com/Magisk-Modules-Repo-CN/modules_list/blob/master/ongoing_list.md) 
 
-[modules(汉化完成) 列表](https://github.com/Magisk-Modules-Repo-CN/modules_list/blob/master/modules_list.md) 
+[modules(汉化完成) 列表](https://github.com/Magisk-Modules-Repo-CN/modules_list/blob/master/fin_list.md) 
 
 ## 交流群
 欢迎加入Magisk-Modules-Repo-CN小组，群聊号码：[859768584](https://jq.qq.com/?_wv=1027&k=53iHiNg)
