@@ -12,13 +12,10 @@
 - [magisk-module-template(Magisk 模块编写示例)](https://github.com/Magisk-Modules-Repo-CN/magisk-module-template) [已完成] @cjybyjk
 
 ## 上传官方仓库中没有的模块
+- 请参考  [Magisk_Repo_Submissions](https://github.com/Magisk-Modules-Repo-CN/Magisk_Repo_Submissions) 
 #### 注意
 - repo 的 description 必须设置为模块 id
 - 必须保持使用[最新的 template](https://github.com/Magisk-Modules-Repo-CN/magisk-module-template)
-
-其余步骤与贡献翻译基本相同
-
-*** 当 [Magisk_Repo_Submissions](https://github.com/Magisk-Modules-Repo-CN/Magisk_Repo_Submissions) 汉化完成后会更新这一小节
 
 ## 如何贡献翻译
 
