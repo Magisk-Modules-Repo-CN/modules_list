@@ -20,6 +20,8 @@
 - [CloudflareDNS4Magisk(Cloudflare 隐私DNS)](https://github.com/Magisk-Modules-Repo-CN/CloudflareDNS4Magisk) @刷机中ing
 - [Emoji One(开源Emoji EmojiOne)](https://github.com/Magisk-Modules-Repo-CN/Emoji_One) @刷机中ing
 - [thermal-engine_remover(高通骁龙通用移除温控)](https://github.com/Magisk-Modules-Repo-CN/thermal-engine_remover) [自制模块] @cjybyjk
+- [TsukuA CJK Fonts（筑紫A丸 CJK 字体）](https://github.com/Magisk-Modules-Repo-CN/TsukuA_CJK_Fonts) @刷机中ing
+- [Android Debug Bridge On Android（在终端里使用ADB）](https://github.com/Magisk-Nodules-Repo-CN/Android_Debug_Bridge_On_Android) @刷机中ing
 
 # 文档列表
 - [Magisk_Repo_Submissions(用于提交 Magisk 模块到仓库)](https://github.com/Magisk-Modules-Repo-CN/Magisk_Repo_Submissions) [已完成] @cjybyjk
