@@ -22,5 +22,6 @@
 - [thermal-engine_remover(高通骁龙通用移除温控)](https://github.com/Magisk-Modules-Repo-CN/thermal-engine_remover) [自制模块] @cjybyjk
 
 # 文档列表
-- [Magisk_Repo_Submissions(用于提交 Magisk 模块到仓库)](https://github.com/Magisk-Modules-Repo-CN/Magisk_Repo_Submissions) [已完成] @cjybyjk                            - [magisk-module-template(Magisk 模块编写示例)](https://github.com/Magisk-Modules-Repo-CN/magisk-module-template) [已完成] @cjybyjk
+- [Magisk_Repo_Submissions(用于提交 Magisk 模块到仓库)](https://github.com/Magisk-Modules-Repo-CN/Magisk_Repo_Submissions) [已完成] @cjybyjk
+- [magisk-module-template(Magisk 模块编写示例)](https://github.com/Magisk-Modules-Repo-CN/magisk-module-template) [已完成] @cjybyjk
 
