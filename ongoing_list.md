@@ -1,6 +1,6 @@
 # 模块列表
 
-- 暂无
+- [DNSCrypt-Proxy 2(DNS代理 支持现代加密DNS协议)](https://github.com/Magisk-Modules-Repo-CN/dnscrypt-proxy) @x4455
 
 # 文档列表
 
