@@ -25,6 +25,7 @@
 - [Android Debug Bridge On Android（在终端里使用ADB）](https://github.com/Magisk-Modules-Repo-CN/Android_Debug_Bridge_On_Android) @刷机中ing
 - [-OS-GPS- (氧OS的GPS定位文件换回国内)](https://github.com/Magisk-Modules-Repo-CN/-OS-GPS-) @user1121114685
 - [Magisk Module Backuper(Magisk模块打包备份)](https://github.com/Magisk-Modules-Repo-CN/magisk_modules_backuper) [自制模块] @cjybyjk
+- [Fio (I/O 性能测试工具)](https://github.com/Magisk-Module-Repo-CN/fio) @CKruX
 
 # 文档列表
 - [Magisk_Repo_Submissions(用于提交 Magisk 模块到仓库)](https://github.com/Magisk-Modules-Repo-CN/Magisk_Repo_Submissions) [等待更新] @cjybyjk
